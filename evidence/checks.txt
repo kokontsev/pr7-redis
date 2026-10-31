@@ -1,0 +1,7 @@
+$ go test ./...
+?   	example.com/pr7/cmd/server	[no test files]
+?   	example.com/pr7/internal/cache	[no test files]
+
+
+$ go vet ./...
+
